@@ -1,0 +1,17 @@
+.content{
+    display: none;
+}
+.active_content{
+    display: block;
+    width:18px;
+    height: 18px;
+    margin-top: 6px;
+    margin-left: 20px;
+    
+   
+    
+}
+.active_tab{
+    color:black;
+}
+
